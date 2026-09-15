@@ -2,7 +2,7 @@
 
 ## 🎬 Watch Me Build This Lab!
 
-*(Loom link coming soon — will be added after recording)*
+https://www.loom.com/share/1aeaf49ac46d4377a2d333614756842a
 
 ---
 
