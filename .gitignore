@@ -1,0 +1,24 @@
+# Terraform state — contains resource IDs and can contain sensitive values
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+crash.log
+crash.*.log
+
+# Variable files — these hold real passwords, never commit them
+*.tfvars
+*.tfvars.json
+!terraform.tfvars.example
+
+# Terraform lock/plan files (optional to ignore — uncomment if desired)
+# .terraform.lock.hcl
+*.tfplan
+
+# Downloaded appliance installers (large binaries, not repo content)
+*.zip
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
